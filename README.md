@@ -63,12 +63,16 @@
 ###
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo"  />
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="25" alt="twitter logo"  />
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="discord logo"  />
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo"  />
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25" alt="instagram logo"  />
-	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="38" height="25" alt="hackerrank logo"  />
+	<table>
+		<tr>
+			<td><a href="https://www.linkedin.com/in/vagisha111" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo" /></a></td>
+			<td><a href="https://x.com/VagishaYadav" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="25" alt="twitter logo" /></a></td>
+			<td><a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="discord logo" /></a></td>
+			<td><a href="mailto:vagishaumesh187@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo" /></a></td>
+			<td><a href="https://www.instagram.com/_vagisha_yaduvanshi_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25" alt="instagram logo" /></a></td>
+			<td><a href="https://www.hackerrank.com/profile/144_Vagisha" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="38" height="25" alt="hackerrank logo" /></a></td>
+		</tr>
+	</table>
 </div>
 
 ###
