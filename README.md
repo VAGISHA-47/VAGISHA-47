@@ -91,16 +91,3 @@
 	<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VAGISHA-47/VAGISHA-47/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
