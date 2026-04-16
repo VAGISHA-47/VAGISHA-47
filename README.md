@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1026,40:1f7ca8,80:1b8f3f,100:0b1026&text=Hello,%20I'm%20VAGISHA%20YADAV&fontColor=f2f5f7&fontSize=56&fontAlignY=40&desc=AI%20%26%20RAG%20Systems%20Explorer&descAlignY=73&descAlign=50&descSize=24&descColor=d8ffef&animation=fadeIn" alt="profile banner" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0b1a4a,45:2b6de0,100:ec4899&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f8fbff&amp;fontSize=56&amp;fontAlignY=40&amp;desc=AI%20%26%20RAG%20Systems%20Explorer&amp;descAlignY=73&amp;descAlign=50&amp;descSize=24&amp;descColor=ffd6ef&amp;animation=fadeIn" alt="profile banner" />
 </div>
 
 ###
@@ -80,9 +80,9 @@
 ###
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAGISHA-47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-	<img src="https://streak-stats.demolab.com?user=VAGISHA-47&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&bg_color=44475a&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=cfd8dc&radius=16&hide_border=false" height="300" alt="activity-graph graph"  />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAGISHA-47&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;order=2" height="150" alt="languages graph"  />
+	<img src="https://streak-stats.demolab.com?user=VAGISHA-47&amp;locale=en&amp;mode=daily&amp;theme=dracula&amp;hide_border=false&amp;border_radius=5&amp;order=3" height="150" alt="streak graph"  />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&amp;custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&amp;bg_color=44475a&amp;color=ffd7ef&amp;line=ff69c8&amp;point=ffffff&amp;area=true&amp;area_color=ffb6dc&amp;radius=16&amp;hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
