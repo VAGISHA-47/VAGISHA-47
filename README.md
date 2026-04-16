@@ -1,5 +1,13 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,45:2563eb,100:ec4899&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f8fbff&amp;fontSize=56&amp;fontAlignY=40&amp;desc=AI%20and%20RAG%20Systems%20Explorer&amp;descAlignY=73&amp;descAlign=50&amp;descSize=24&amp;descColor=ffd6ef&amp;animation=fadeIn" alt="profile banner" />
+
+	<!-- Banner -->
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:ec4899&text=Hello,%20I'm%20VAGISHA%20YADAV&fontColor=f8fbff&fontSize=56&fontAlignY=40&desc=B.Tech%20CS%20%7C%20Bhopal%2C%20India&descAlignY=73&descAlign=50&descSize=20&descColor=ffd6ef&animation=fadeIn" alt="profile banner" />
+
+	<!-- Typing SVG — the rotating text -->
+	<a href="https://git.io/typing-svg">
+	  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;UX+%2F+UI+Designer+%F0%9F%8E%A8;Competitive+Programmer+%F0%9F%8F%86;DSA+Problem+Solver+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+	</a>
+
 </div>
 
 ## 🚀 What I'm Up To
@@ -32,7 +40,7 @@
 	<br /><br />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAGISHA-47&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=560&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;order=2" height="220" alt="languages graph"  />
 	<br /><br />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&amp;custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&amp;bg_color=00000000&amp;color=ffd7ef&amp;line=ff69c8&amp;point=ffffff&amp;area=true&amp;area_color=ffb6dc&amp;radius=16&amp;hide_border=false" height="340" alt="activity-graph graph"  />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&amp;custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&amp;bg_color=00000000&amp;color=ffd7ef&amp;line=ff69c8&amp;point=ffffff&amp;area=true&amp;area_color=ffb6dc&amp;radius=16&amp;hi![alt text](image.png)de_border=false" height="340" alt="activity-graph graph"  />
 </div>
 
 
