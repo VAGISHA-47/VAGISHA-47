@@ -23,7 +23,13 @@
 		</tr>
 	</table>
 </div>
+###
 
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAGISHA-47&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;order=2" height="150" alt="languages graph"  />
+	<img src="https://streak-stats.demolab.com?user=VAGISHA-47&amp;locale=en&amp;mode=daily&amp;theme=dracula&amp;hide_border=false&amp;border_radius=5&amp;order=3" height="150" alt="streak graph"  />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&amp;custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&amp;bg_color=44475a&amp;color=ffd7ef&amp;line=ff69c8&amp;point=ffffff&amp;area=true&amp;area_color=ffb6dc&amp;radius=16&amp;hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
 ###
 
 <div align="center">
@@ -84,13 +90,6 @@
 	<img src="https://cdn.simpleicons.org/discord/5865F2" height="35" alt="discord logo"  />
 </div>
 
-###
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAGISHA-47&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;order=2" height="150" alt="languages graph"  />
-	<img src="https://streak-stats.demolab.com?user=VAGISHA-47&amp;locale=en&amp;mode=daily&amp;theme=dracula&amp;hide_border=false&amp;border_radius=5&amp;order=3" height="150" alt="streak graph"  />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&amp;custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&amp;bg_color=44475a&amp;color=ffd7ef&amp;line=ff69c8&amp;point=ffffff&amp;area=true&amp;area_color=ffb6dc&amp;radius=16&amp;hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
