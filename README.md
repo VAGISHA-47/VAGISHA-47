@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b1026,40:1f7ca8,80:1b8f3f,100:0b1026&text=Hello,%20I'm%20VAGISHA%20YADAV&fontColor=f2f5f7&fontSize=56&fontAlignY=40&desc=AI%20%26%20RAG%20Systems%20Explorer&descAlignY=73&descAlign=50&descSize=24&descColor=d8ffef&animation=fadeIn" alt="profile banner" />
+</div>
 
 ###
 
@@ -80,7 +82,7 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VAGISHA-47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 	<img src="https://streak-stats.demolab.com?user=VAGISHA-47&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAGISHA-47&custom_title=VAGISHA%20YADAV's%20Contribution%20Graph&bg_color=44475a&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=cfd8dc&radius=16&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
