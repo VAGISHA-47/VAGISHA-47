@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,45:2563eb,100:ec4899&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f8fbff&amp;fontSize=56&amp;fontAlignY=40&amp;desc=AI%20%26%20RAG%20Systems%20Explorer&amp;descAlignY=73&amp;descAlign=50&amp;descSize=24&amp;descColor=ffd6ef&amp;animation=fadeIn" alt="profile banner" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,45:2563eb,100:ec4899&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f8fbff&amp;fontSize=56&amp;fontAlignY=40&amp;desc=AI%20and%20RAG%20Systems%20Explorer&amp;descAlignY=73&amp;descAlign=50&amp;descSize=24&amp;descColor=ffd6ef&amp;animation=fadeIn" alt="profile banner" />
 </div>
 
 ###
