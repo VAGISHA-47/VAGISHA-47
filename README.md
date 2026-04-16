@@ -2,6 +2,28 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,45:2563eb,100:ec4899&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f8fbff&amp;fontSize=56&amp;fontAlignY=40&amp;desc=AI%20and%20RAG%20Systems%20Explorer&amp;descAlignY=73&amp;descAlign=50&amp;descSize=24&amp;descColor=ffd6ef&amp;animation=fadeIn" alt="profile banner" />
 </div>
 
+## 🚀 What I'm Up To
+
+- 🔭 Currently working on **DSA problems in C++ every day**
+- 🌱 Exploring **Web Development** and **Machine Learning**
+- 💻 Practicing on **competitive programming** platforms
+- 🎯 Goal: Land a role at a top tech company
+
+###
+
+<div align="center">
+	<table>
+		<tr>
+			<td><a href="https://www.linkedin.com/in/vagisha111" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo" /></a></td>
+			<td><a href="https://x.com/VagishaYadav" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="25" alt="twitter logo" /></a></td>
+			<td><a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="discord logo" /></a></td>
+			<td><a href="mailto:vagishaumesh187@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo" /></a></td>
+			<td><a href="https://www.instagram.com/_vagisha_yaduvanshi_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25" alt="instagram logo" /></a></td>
+			<td><a href="https://www.hackerrank.com/profile/144_Vagisha" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="38" height="25" alt="hackerrank logo" /></a></td>
+		</tr>
+	</table>
+</div>
+
 ###
 
 <div align="center">
@@ -60,21 +82,6 @@
 	<img src="https://cdn.simpleicons.org/vite/646CFF" height="35" alt="vite logo"  />
 	<img width="12" />
 	<img src="https://cdn.simpleicons.org/discord/5865F2" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-	<table>
-		<tr>
-			<td><a href="https://www.linkedin.com/in/vagisha111" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo" /></a></td>
-			<td><a href="https://x.com/VagishaYadav" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="38" height="25" alt="twitter logo" /></a></td>
-			<td><a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="discord logo" /></a></td>
-			<td><a href="mailto:vagishaumesh187@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="gmail logo" /></a></td>
-			<td><a href="https://www.instagram.com/_vagisha_yaduvanshi_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25" alt="instagram logo" /></a></td>
-			<td><a href="https://www.hackerrank.com/profile/144_Vagisha" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="38" height="25" alt="hackerrank logo" /></a></td>
-		</tr>
-	</table>
 </div>
 
 ###
