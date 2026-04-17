@@ -1,10 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=300&amp;color=0:0f1f4a,50:2f64ff,100:e6469a&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f7fbff&amp;fontSize=66&amp;fontAlignY=34&amp;desc=B.Tech%20CS%20Student%20%7C%20Bhopal,%20India%20%7C%20Always%20learning,%20always%20growing&amp;descAlignY=74&amp;descAlign=50&amp;descSize=20&amp;descColor=d5def0&amp;animation=fadeIn" alt="profile banner" />
-<br />
-<p align="center">
-<font size="7" color="#ffd1ef">I'm a </font>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=52&amp;duration=2600&amp;pause=1800&amp;color=FECF45&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=82&amp;lines=Backend+Engineer" alt="typing role" />
-</p>
+<!-- TOP WAVE BANNER - Soft Romantic Style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1a0533,40:3b0764,70:9333ea,100:701a75&text=VAGISHA%20Yadav&fontColor=ffffff&fontSize=58&fontAlignY=38&fontAlign=50&desc=%E2%9C%A6%20dreaming%20in%20code%2C%20building%20the%20future%20%E2%9C%A6&descAlignY=68&descAlign=50&descSize=20&descColor=d8b4fe&animation=fadeIn" alt="banner" />
+
+<!-- Hello I'm - Dancing Script feel via typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=99999&color=F0ABFC&center=true&vCenter=true&width=400&lines=Hello%2C+I'm+Vagisha+%F0%9F%8C%B8" alt="hello" />
+
+<!-- ROTATING ROLES - golden colour to match banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=520&lines=a+passionate+Full+Stack+Developer+%F0%9F%92%BB;a+passionate+AI+%2F+ML+Explorer+%F0%9F%A4%96;a+passionate+DSA+Problem+Solver+%F0%9F%A7%A0;a+passionate+Competitive+Programmer+%F0%9F%8F%86;a+passionate+UX+%2F+UI+Designer+%F0%9F%8E%A8;a+passionate+Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+
+<!-- BOTTOM WAVE - reversed gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:701a75,50:9333ea,100:1a0533&section=footer&animation=fadeIn" alt="footer" />
 </div>
 
 ## 🚀 What I'm Up To
