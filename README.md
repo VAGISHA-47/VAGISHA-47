@@ -1,35 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:3c0a6b,50:9333ea,100:3c0a6b&text=%20&animation=fadeIn" alt="hero top" />
 
-<p>
-	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=99999&color=C4B5FD&center=true&vCenter=true&width=280&lines=%E2%9C%A6+++++%E2%9C%A6+++++%E2%9C%A6" alt="stars top" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000511,50:001a2e,100:000511&text=VAGISHA%20YADAV&fontColor=00ffcc&fontSize=54&fontAlignY=45&fontAlign=50&desc=B.Tech%20CS%20%C2%B7%20Bhopal%20%C2%B7%20Building%20the%20Future&descAlignY=72&descAlign=50&descSize=16&descColor=4a9eba&animation=fadeIn" alt="banner"/>
 
-<p>
-	<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=54&pause=99999&color=F0ABFC&center=true&vCenter=true&width=420&lines=Hello%2C+I'm" alt="hello line" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=running%3A+Full+Stack+Developer+%3E_;running%3A+AI+%2F+ML+Explorer+%3E_;running%3A+DSA+Problem+Solver+%3E_;running%3A+Competitive+Programmer+%3E_;running%3A+Open+Source+Contributor+%3E_" alt="Typing SVG"/>
 
-<h1>
-	<span style="color:#F8FAFC;">VAGISHA</span>
-	<span style="color:#FBBF24;">Yadav</span>
-</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:d8b4fe,100:d8b4fe&text=%20" alt="divider" />
-
-<p>
-	<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=46&pause=99999&color=C4B5FD&center=true&vCenter=true&width=760&lines=dreaming+in+code%2C+building+the+future+%E2%9C%A6" alt="tagline" />
-</p>
-
-<p>
-	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=99999&color=C4B5FD&center=true&vCenter=true&width=220&lines=a+passionate" alt="role prefix" />
-	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1100&color=FBBF24&center=true&vCenter=true&width=560&lines=Competitive+Programmer;Full+Stack+Developer;AI+%2F+ML+Explorer;DSA+Problem+Solver;UX+%2F+UI+Designer;Open+Source+Contributor" alt="role rotator" />
-</p>
-
-<p>
-	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=99999&color=C4B5FD&center=true&vCenter=true&width=280&lines=%E2%9C%A6+++++%E2%9C%A6+++++%E2%9C%A6" alt="stars bottom" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:5b1f8f,50:9333ea,100:2f0a57&text=%20&animation=fadeIn" alt="hero bottom" />
 </div>
 
 ## 🚀 What I'm Up To
