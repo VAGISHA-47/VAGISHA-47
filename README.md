@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 
 - 🔭 Currently working on **DSA problems in C++ every day**
 - 🌱 Exploring **Web Development** and **Machine Learning**
@@ -31,6 +31,8 @@
 
 
 ###
+
+##  Tech Stacks
 
 <div align="center">
 	<img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
