@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:1a2a6c,100:f64f59&text=VAGISHA%20YADAV&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Software%20Developer%20%7C%20B.Tech%20CS%20%7C%20Bhopal&descAlignY=70&descSize=18&descColor=ffb6ff&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&pause=1200&color=FF61D2&center=true&vCenter=true&width=1200&lines=%E2%9C%A6+Full+Stack+Developer+%E2%80%94+Web+dev+skills;%E2%9C%A6+AI+%2F+ML+Explorer+%E2%80%94+You%27re+learning+ML;%E2%9C%A6+UX+%2F+UI+Designer+%E2%80%94+Design+thinking;%E2%9C%A6+Competitive+Programmer+%E2%80%94+DSA+practice;%E2%9C%A6+DSA+Problem+Solver+%E2%80%94+Your+main+focus;%E2%9C%A6+Open+Source+Contributor+%E2%80%94+Great+for+GitHub+profile;%E2%9C%A6+Backend+Engineer+%E2%80%94+Future+goal;%E2%9C%A6+Tech+Enthusiast+%E2%80%94+Your+overall+vibe" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&pause=1200&color=FF61D2&center=true&vCenter=true&width=1200&lines=%E2%9C%A6+Full+Stack+Developer+%E2%80%94+Web+dev+skills;%E2%9C%A6+AI+%2F+ML+Explorer;%E2%9C%A6+UX+%2F+UI+Designer;%E2%9C%A6+Competitive+Programmer;%E2%9C%A6+DSA+Problem+Solver;%E2%9C%A6+Open+Source+Contributor;%E2%9C%A6+Backend+Engineer;%E2%9C%A6+Tech+Enthusiast" />
 
 </div>
 
