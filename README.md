@@ -1,10 +1,7 @@
 <div align="center">
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,45:2563eb,100:ec4899&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f8fbff&amp;fontSize=56&amp;fontAlignY=40&amp;desc=B.Tech%20CS%20%7C%20Bhopal%2C%20India&amp;descAlignY=73&amp;descAlign=50&amp;descSize=20&amp;descColor=ffd6ef&amp;animation=fadeIn" alt="profile banner" />
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;pause=1000&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;UX+%2F+UI+Designer+%F0%9F%8E%A8;Competitive+Programmer+%F0%9F%8F%86;DSA+Problem+Solver+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=300&amp;color=0:0f1f4a,50:2f64ff,100:e6469a&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f7fbff&amp;fontSize=64&amp;fontAlignY=35&amp;desc=B.Tech%20CS%20Student%20%7C%20Bhopal,%20India%20%7C%20Always%20learning,%20always%20growing&amp;descAlignY=74&amp;descAlign=50&amp;descSize=20&amp;descColor=d7e3f8&amp;animation=fadeIn" alt="profile banner" />
+<br /><br />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=44&amp;duration=2200&amp;pause=1200&amp;color=FECF45&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=72&amp;lines=I'm+a+UX+%2F+UI+Designer" alt="typing role" />
 </div>
 
 ## 🚀 What I'm Up To
