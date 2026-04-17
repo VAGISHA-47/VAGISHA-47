@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:000511,50:001a2e,100:000511&text=VAGISHA%20YADAV&fontColor=00ffcc&fontSize=54&fontAlignY=45&fontAlign=50&desc=B.Tech%20CS%20%C2%B7%20Bhopal%20%C2%B7%20Building%20the%20Future&descAlignY=72&descAlign=50&descSize=16&descColor=4a9eba&animation=fadeIn" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000511,50:001a2e,100:000511&text=VAGISHA%20YADAV&fontColor=00ffe0&fontSize=60&fontAlignY=40&desc=Software%20Developer%20%7C%20B.Tech%20CS%20%7C%20Bhopal&descAlignY=70&descSize=18&descColor=66ffe0&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=running%3A+Full+Stack+Developer+%3E_;running%3A+AI+%2F+ML+Explorer+%3E_;running%3A+DSA+Problem+Solver+%3E_;running%3A+Competitive+Programmer+%3E_;running%3A+Open+Source+Contributor+%3E_" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=800&color=00FFE0&center=true&vCenter=true&width=650&lines=%3E+Building+Real+World+Projects; %3E+DSA+%2B+C%2B%2B+Daily; %3E+Exploring+AI+%2F+ML; %3E+Future+Software+Engineer+%F0%9F%9A%80" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000511&hide_border=true&line=00ffe0&point=ffffff" width="95%"/>
 
 </div>
 
