@@ -1,15 +1,35 @@
 <div align="center">
-<!-- TOP WAVE BANNER - Soft Romantic Style -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1a0533,40:3b0764,70:9333ea,100:701a75&text=VAGISHA%20Yadav&fontColor=ffffff&fontSize=58&fontAlignY=38&fontAlign=50&desc=%E2%9C%A6%20dreaming%20in%20code%2C%20building%20the%20future%20%E2%9C%A6&descAlignY=68&descAlign=50&descSize=20&descColor=d8b4fe&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:3c0a6b,50:9333ea,100:3c0a6b&text=%20&animation=fadeIn" alt="hero top" />
 
-<!-- Hello I'm - Dancing Script feel via typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&pause=99999&color=F0ABFC&center=true&vCenter=true&width=400&lines=Hello%2C+I'm+Vagisha+%F0%9F%8C%B8" alt="hello" />
+<p>
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=99999&color=C4B5FD&center=true&vCenter=true&width=280&lines=%E2%9C%A6+++++%E2%9C%A6+++++%E2%9C%A6" alt="stars top" />
+</p>
 
-<!-- ROTATING ROLES - golden colour to match banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=520&lines=a+passionate+Full+Stack+Developer+%F0%9F%92%BB;a+passionate+AI+%2F+ML+Explorer+%F0%9F%A4%96;a+passionate+DSA+Problem+Solver+%F0%9F%A7%A0;a+passionate+Competitive+Programmer+%F0%9F%8F%86;a+passionate+UX+%2F+UI+Designer+%F0%9F%8E%A8;a+passionate+Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<p>
+	<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=54&pause=99999&color=F0ABFC&center=true&vCenter=true&width=420&lines=Hello%2C+I'm" alt="hello line" />
+</p>
 
-<!-- BOTTOM WAVE - reversed gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:701a75,50:9333ea,100:1a0533&section=footer&animation=fadeIn" alt="footer" />
+<h1>
+	<span style="color:#F8FAFC;">VAGISHA</span>
+	<span style="color:#FBBF24;">Yadav</span>
+</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:d8b4fe,100:d8b4fe&text=%20" alt="divider" />
+
+<p>
+	<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=46&pause=99999&color=C4B5FD&center=true&vCenter=true&width=760&lines=dreaming+in+code%2C+building+the+future+%E2%9C%A6" alt="tagline" />
+</p>
+
+<p>
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=99999&color=C4B5FD&center=true&vCenter=true&width=220&lines=a+passionate" alt="role prefix" />
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1100&color=FBBF24&center=true&vCenter=true&width=560&lines=Competitive+Programmer;Full+Stack+Developer;AI+%2F+ML+Explorer;DSA+Problem+Solver;UX+%2F+UI+Designer;Open+Source+Contributor" alt="role rotator" />
+</p>
+
+<p>
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=99999&color=C4B5FD&center=true&vCenter=true&width=280&lines=%E2%9C%A6+++++%E2%9C%A6+++++%E2%9C%A6" alt="stars bottom" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:5b1f8f,50:9333ea,100:2f0a57&text=%20&animation=fadeIn" alt="hero bottom" />
 </div>
 
 ## 🚀 What I'm Up To
