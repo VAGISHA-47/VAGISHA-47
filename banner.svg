@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">VAGISHA YADAV animated banner</title>
+  <desc id="desc">Animated GitHub profile banner with title, subtitle, pulsing divider, and cycling role text.</desc>
+
+  <!-- Background base and subtle left-to-right gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#1c2333" />
+    </linearGradient>
+
+    <!-- Soft white glow behind main title -->
+    <filter id="titleGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="blur" />
+      <feFlood flood-color="#ffffff" flood-opacity="0.55" result="glowColor" />
+      <feComposite in="glowColor" in2="blur" operator="in" result="glow" />
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="280" fill="#0d1117" />
+  <rect x="0" y="0" width="900" height="280" fill="url(#bg)" />
+
+  <!-- Main title -->
+  <text x="450" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" filter="url(#titleGlow)">VAGISHA YADAV</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#94a3b8">Software Developer | B.Tech CSE | Bhopal</text>
+
+  <!-- Pulsing divider line -->
+  <line x1="300" y1="162" x2="600" y2="162" stroke="#60a5fa" stroke-width="2" stroke-linecap="round" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Bottom cycling text: 5 phrases, 2.5s each, total 12.5s loop -->
+  <g text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-style="italic" fill="#60a5fa">
+    <text x="450" y="235" opacity="0" visibility="hidden">
+      Full Stack Developer
+      <animate attributeName="visibility" values="hidden;visible;visible;hidden;hidden" keyTimes="0;0.001;0.20;0.201;1" dur="12.5s" begin="0s" repeatCount="indefinite" calcMode="discrete" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.16;0.20;1" dur="12.5s" begin="0s" repeatCount="indefinite" />
+    </text>
+
+    <text x="450" y="235" opacity="0" visibility="hidden">
+      DSA Enthusiast
+      <animate attributeName="visibility" values="hidden;visible;visible;hidden;hidden" keyTimes="0;0.001;0.20;0.201;1" dur="12.5s" begin="2.5s" repeatCount="indefinite" calcMode="discrete" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.16;0.20;1" dur="12.5s" begin="2.5s" repeatCount="indefinite" />
+    </text>
+
+    <text x="450" y="235" opacity="0" visibility="hidden">
+      Problem Solver
+      <animate attributeName="visibility" values="hidden;visible;visible;hidden;hidden" keyTimes="0;0.001;0.20;0.201;1" dur="12.5s" begin="5s" repeatCount="indefinite" calcMode="discrete" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.16;0.20;1" dur="12.5s" begin="5s" repeatCount="indefinite" />
+    </text>
+
+    <text x="450" y="235" opacity="0" visibility="hidden">
+      Open Source Contributor
+      <animate attributeName="visibility" values="hidden;visible;visible;hidden;hidden" keyTimes="0;0.001;0.20;0.201;1" dur="12.5s" begin="7.5s" repeatCount="indefinite" calcMode="discrete" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.16;0.20;1" dur="12.5s" begin="7.5s" repeatCount="indefinite" />
+    </text>
+
+    <text x="450" y="235" opacity="0" visibility="hidden">
+      Building Cool Things
+      <animate attributeName="visibility" values="hidden;visible;visible;hidden;hidden" keyTimes="0;0.001;0.20;0.201;1" dur="12.5s" begin="10s" repeatCount="indefinite" calcMode="discrete" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.16;0.20;1" dur="12.5s" begin="10s" repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>

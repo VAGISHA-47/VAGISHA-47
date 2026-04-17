@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="assets/profile-banner.svg" alt="VAGISHA YADAV animated profile banner" width="900" height="280" />
-
-</div>
+![banner](banner.svg)
 
 ##  What I'm Up To
 
