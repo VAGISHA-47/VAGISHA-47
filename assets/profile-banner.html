@@ -289,6 +289,15 @@
       '🌟 Building Cool Things',
     ];
 
+    const phraseSegments = phrases.map((phrase) => {
+      if (typeof Intl !== 'undefined' && Intl.Segmenter) {
+        const segmenter = new Intl.Segmenter('en', { granularity: 'grapheme' });
+        return Array.from(segmenter.segment(phrase), ({ segment }) => segment);
+      }
+
+      return Array.from(phrase);
+    });
+
     const typedText = document.getElementById('typedText');
     const typeDelay = 72;
     const deleteDelay = 42;
@@ -303,11 +312,11 @@
     }
 
     function typeLoop() {
-      const currentPhrase = phrases[phraseIndex];
+      const currentPhrase = phraseSegments[phraseIndex];
 
       if (!deleting) {
         charIndex += 1;
-        typedText.textContent = currentPhrase.slice(0, charIndex);
+        typedText.textContent = currentPhrase.slice(0, charIndex).join('');
 
         if (charIndex < currentPhrase.length) {
           scheduleNextTick(typeDelay);
@@ -320,7 +329,7 @@
       }
 
       charIndex -= 1;
-      typedText.textContent = currentPhrase.slice(0, charIndex);
+  typedText.textContent = currentPhrase.slice(0, charIndex).join('');
 
       if (charIndex > 0) {
         scheduleNextTick(deleteDelay);
