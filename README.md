@@ -1,7 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=300&amp;color=0:0f1f4a,50:2f64ff,100:e6469a&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f7fbff&amp;fontSize=64&amp;fontAlignY=35&amp;desc=B.Tech%20CS%20Student%20%7C%20Bhopal,%20India%20%7C%20Always%20learning,%20always%20growing&amp;descAlignY=74&amp;descAlign=50&amp;descSize=20&amp;descColor=d7e3f8&amp;animation=fadeIn" alt="profile banner" />
-<br /><br />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=44&amp;duration=2200&amp;pause=1200&amp;color=FECF45&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=72&amp;lines=I'm+a+UX+%2F+UI+Designer" alt="typing role" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=300&amp;color=0:0f1f4a,50:2f64ff,100:e6469a&amp;text=Hello,%20I'm%20VAGISHA%20YADAV&amp;fontColor=f7fbff&amp;fontSize=66&amp;fontAlignY=34&amp;desc=B.Tech%20CS%20Student%20%7C%20Bhopal,%20India%20%7C%20Always%20learning,%20always%20growing&amp;descAlignY=74&amp;descAlign=50&amp;descSize=20&amp;descColor=d5def0&amp;animation=fadeIn" alt="profile banner" />
+<br />
+<p align="center">
+<font size="7" color="#ffd1ef">I'm a </font>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=52&amp;duration=2600&amp;pause=1800&amp;color=FECF45&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=560&amp;height=82&amp;lines=Backend+Engineer" alt="typing role" />
+</p>
 </div>
 
 ## 🚀 What I'm Up To
