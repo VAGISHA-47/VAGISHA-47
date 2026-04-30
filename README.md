@@ -6,6 +6,9 @@
 - 🌱 Exploring **Web Development** and **Machine Learning**
 - 💻 Practicing on **competitive programming** platforms
 - 🎯 Goal: Land a role at a top tech company
+- 🤝 Open to **collaborations** and always happy to contribute to exciting open-source projects
+- 🚀 Building **Planify** - a SaaS project for smart planning and productivity
+- 👀 Looking for contributors to help bring Planify to life
 
 ###
 ##  Lets Connect 
